@@ -1,7 +1,7 @@
 # Task Manager API
 
-![CI](../../actions/workflows/ci.yml/badge.svg)
-
+   ![CI](https://github.com/nuhiila/task-manager-api/actions/workflows/ci.yml/badge.svg)
+   
 A small REST API to manage tasks, built with **Node.js** and **Express**, and tested with **Jest** and **Supertest**.
 
 The goal of this mini project is to show a clean, testable structure:
