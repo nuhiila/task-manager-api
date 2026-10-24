@@ -3,3 +3,7 @@ coverage/
 .env
 .DS_Store
 npm-debug.log*
+
+.venv/
+__pycache__/
+.pytest_cache/
