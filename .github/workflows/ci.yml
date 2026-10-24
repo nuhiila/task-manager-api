@@ -29,7 +29,7 @@ jobs:
       - name: Run tests
         run: npm test
 
-        functional-tests:
+  functional-tests:
     runs-on: ubuntu-latest
 
     steps:
